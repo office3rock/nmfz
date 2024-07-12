@@ -88,9 +88,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "nmfz",
+  siteTitle: "אורן קובי",
   siteDescription:
-    "nmfz",
+    "האתר של אורן קובי",
   language: "he",
   logoUrl: "",
   iconUrl: "",
