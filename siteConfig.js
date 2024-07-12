@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "nmfz",
+    title: "אורן קובי",
     description:
-      "nmfz",
+      "האתר של אורן קובי",
   },
   twitterCard: {
     title: "",
